@@ -1,5 +1,5 @@
 # betterNotifier
-Automatically notifies you of RBLXWILD rains
+  Automatically notifies you of RBLXWILD rains
 
 # Usage
 - Change in main.py
