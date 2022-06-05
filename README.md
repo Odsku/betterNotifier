@@ -1,7 +1,7 @@
 # betterNotifier
 Automatically notifies you of RBLXWILD rains
 
-# Usage:
+# Usage
 - Change in main.py
   <discord_bot_token> to your bot token 
   <guild_id> to your discord guild id 
