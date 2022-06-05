@@ -10,3 +10,6 @@
 - Add roles to the guild with the name
   All, 10k, 25k. 50k, 100k 
   Bot will ping these roles depending on how big the rain is
+
+# Contact
+- Discord: Odsku#8085
