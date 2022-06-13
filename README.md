@@ -12,5 +12,4 @@
   Bot will ping these roles depending on how big the rain is
 
 # Contact
-- Discord: Odsku#8085
-- Matrix: @odsku:matrix.org
+- Discord: betterSupport#8964
