@@ -11,5 +11,5 @@
   All, 10k, 25k. 50k, 100k 
   Bot will ping these roles depending on how big the rain is
 
-# Contact
-- Discord: betterSupport#8964
+# Non maintained project 
+- Please don't contact me for help setting it up (I will most likely ignore you)
